@@ -1,0 +1,208 @@
+p.aures {
+    position: absolute;
+    top: 25%;
+    width: 50%;
+    right: 15%;
+    text-align: justify;
+    padding-top: 10px;
+    font-size: large;
+
+}
+h1{
+    margin-left: 60%;
+    font-size: 25px;
+}
+.map {
+    background-image: url(./map.jpg);
+    width: 45%;
+    height: 45%;
+    margin-left: 5%;
+}
+.box{
+    display: flex;
+    justify-content:right;
+    text-align: center;
+    align-items: center ;
+    min-height: 400px;
+    padding-left: 15%;
+
+}
+    .card{
+    height: 370px;
+    width: 340px;
+    padding: 15px 30px;
+    background: #7c7b7b;
+    border-radius: 20px;
+    margin: 10px;
+    position: relative;
+    overflow: hidden;
+}
+h2{
+    color: black;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.pra h2{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.fact {
+    background-image: url(./design.jpg);
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+  .team {
+    background-image: url(./team.jpg);
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: 120%;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+  .technologie {
+    background-image: url(./technologie.jpg);
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+  .middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%)
+  }
+  
+  .container:hover .fact {
+    opacity: 0.3;
+  }
+  
+  .container:hover .middle {
+    opacity: 1;
+  }
+  .container:hover .technologie {
+    opacity: 0.3;
+  }
+  .container:hover .team {
+    opacity: 0.3;
+  }
+  
+  
+  
+  .text {
+    background-color: #acaaaa;
+    color: rgb(5, 5, 5);
+    font-size: 20px;
+    padding: 10px 25px;
+    border: white;
+    
+}
+  .container {
+    position: relative;
+    width: 50%;
+  }
+ 
+
+/*p.p1 {
+    position: absolute;
+    top: 60%;
+    width: 50%;
+    right:22%;
+    font-size: large;
+    text-align: justify;
+    padding-top: 5%;
+}
+
+p.p2 {
+    position: absolute;
+    top: 110%;
+    width: 50%;
+    right: 22%;
+    font-size: large;
+    text-align: justify;
+    padding-top: 5%;
+}
+
+p.p3 {
+    position: absolute;
+    top: 160%;
+    width: 50%;
+    right: 22%;
+    font-size: large;
+    text-align: justify;
+    padding-top: 5%;
+}
+
+p.p4 {
+    position: absolute;
+    top: 210%;
+    width: 50%;
+    right: 22%;
+    font-size: large;
+    text-align: justify;
+    padding-top: 5%;
+}
+
+
+
+
+h4 {
+    color: brown;
+    text-align: left;
+    position: relative;
+    left: 10%;
+    text-align: center;
+}
+
+.design {
+    background-image: url(./design.jpg);
+    width: 35%;
+    height: 35%;
+    margin-left: 5%;
+
+}
+
+
+.couleur {
+    background-image: url(./couleur.jpg);
+    width: 35%;
+    height: 35%;
+    margin-left: 5%;
+
+}
+
+.technologie {
+    background-image: url(./technologies.jpg);
+    width: 35%;
+    height: 35%;
+    margin-left: 5%;
+
+}
+
+.IT {
+    background-image: url(./it.jpg);
+    width: 35%;
+    height: 35%;
+    margin-left: 5%;
+
+}
+
+h4.p4 {
+    color: brown;
+    text-align: left;
+    position: relative;
+    text-align: center;
+    left: 15%;
+}
+*/

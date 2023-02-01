@@ -1,0 +1,51 @@
+
+.imag{
+    
+    width: 1295px;
+    height: 400px;
+    text-align: center;
+    margin-left: 0%;
+    background-size: 1295px 400px;
+    background-repeat: no-repeat;
+  
+  
+
+}
+.immag{
+    
+    width: 1295px;
+    height: 400px;
+    text-align: center;
+    margin-left: 0%;
+  
+    background-size: 1295px 400px;
+    background-repeat: no-repeat;
+  
+
+}
+#myDIV {
+
+    width: 1295px;
+    height: 400px;
+    background: rgb(136, 103, 103);
+    animation: mymove 5s infinite;
+    text-align: center;
+  }
+  
+  @keyframes mymove {
+    from {background-color: rgb(238, 236, 236);}
+    to {background-color: rgb(248, 213, 224);}
+  }
+  .txtt{
+    color: aliceblue;
+    font-weight: 300;
+    font-size: larger;
+    text-align: center;
+
+  }
+  .title{
+
+    font-size:30px;text-align:center; line-height:1.5em; 
+  padding-bottom:0px; font-family:"Playfair Display", serif; 
+  text-transform:uppercase;letter-spacing: 2px; color:rgb(206, 21, 21);
+}

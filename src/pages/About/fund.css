@@ -1,0 +1,92 @@
+p.pr1 {
+    position: absolute;
+    top: 25%;
+    width: 50%;
+    right:22%;
+    font-size: large;
+    text-align: justify;
+    padding-top: 5%;
+}
+
+p.pr2 {
+    position: absolute;
+    top: 80%;
+    width: 50%;
+    right: 22%;
+    font-size: large;
+    text-align: justify;
+    padding-top: 5%;
+}
+
+p.pr3 {
+    position: absolute;
+    top: 130%;
+    width: 50%;
+    right: 22%;
+    font-size: large;
+    text-align: justify;
+    padding-top: 5%;
+}
+
+p.pr4 {
+    position: absolute;
+    top: 170%;
+    width: 50%;
+    right: 22%;
+    font-size: large;
+    text-align: justify;
+    padding-top: 5%;
+}
+
+
+
+
+h4 {
+    color: brown;
+    text-align: left;
+    position: relative;
+    left: 10%;
+    text-align: center;
+}
+
+.design {
+    background-image: url(./design.jpg);
+    width: 35%;
+    height: 35%;
+    margin-left: 5%;
+
+}
+
+
+.couleur {
+    background-image: url(./couleur.jpg);
+    width: 35%;
+    height: 35%;
+    margin-left: 5%;
+
+}
+
+.tech {
+    background-image: url(./tech.jpg);
+    width: 35%;
+    height: 35%;
+    margin-left: 5%;
+
+}
+
+.IT {
+    background-image: url(./it.jpg);
+    width: 35%;
+    height: 35%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+
+}
+
+h4.pr4 {
+    color: brown;
+    text-align: left;
+    position: relative;
+    text-align: center;
+    left: 15%;
+}

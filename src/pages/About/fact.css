@@ -1,0 +1,30 @@
+
+h3{
+    text-align: justify;
+    justify-content: center;
+    padding-left: 10%;
+    color: brown;
+}
+h5{
+    text-align: center;
+    text-align: justify;
+    padding-left: 10%;
+    
+
+}
+ p{
+    justify-content: center;
+    text-align: justify;
+    padding-left: 10%;
+ }
+ h1{
+    text-align: center;
+ }
+ div.p2{
+    text-align: right;
+    padding-left: 70%;
+ }
+ div.p1{
+    text-align: right;
+    padding-left: 30%;
+ }
